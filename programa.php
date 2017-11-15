@@ -1,1 +1,1 @@
-<?php hola mundo?>
+<?= hola Bolivia?>
